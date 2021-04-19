@@ -7,5 +7,5 @@ I'm an ambitious software developer, specializing in cyber security and enthusia
  <li>🔑 Mastering Java.</li>
  <li>👯 Interested in building & contributing to fascinating projects in my free time.</li> 
  <li>⚡ Enthusiastic to obtain new knowledge.</li>
- <li>📰 Add me on <a src="https://www.linkedin.com/in/adenkov/">LinkedIn </a>.</li>
+ <li>📰 Add me on <a href="https://www.linkedin.com/in/adenkov/">LinkedIn </a>.</li>
 </ul>
