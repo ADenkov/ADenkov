@@ -1,11 +1,11 @@
 ### Hi there, I'm Antonio Denkov 👋
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 I'm an ambitious software developer, specializing in cyber security and enthusiastic about cryptocurrencies.
 
  <li>💻 I’m currently working on a pentest for a dutch company.</li>
  <li>🔭 Learning Python and wireless key transmission.</li>
- • 🔑 Mastering Java.
- • 👯 Interested in building & contributing to fascinating projects in my free time. 
- • ⚡ Enthusiastic to obtain new knowledge.
- • 📰 Add me on [LinkedIn](https://www.linkedin.com/in/adenkov/).
+ <li>🔑 Mastering Java.</li>
+ <li>👯 Interested in building & contributing to fascinating projects in my free time.</li> 
+ <li>⚡ Enthusiastic to obtain new knowledge.</li>
+ <li>📰 Add me on [LinkedIn](https://www.linkedin.com/in/adenkov/).</li>
 
